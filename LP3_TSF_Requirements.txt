@@ -1,0 +1,56 @@
+# Environment variables management
+python-dotenv
+
+# Database connection
+pyodbc
+mysqlclient
+mysql-connector-python
+pymysql
+
+# Data handling and utilities
+pandas
+numpy
+re
+python-dateutil
+warnings
+os
+pickle5
+joblib
+
+# Data fetching
+requests
+
+# Statistical analysis
+scipy
+
+# Time series analysis
+statsmodels
+fbprophet
+
+# Visualization
+plotly
+matplotlib
+seaborn
+ipython
+
+# Data imputation
+fancyimpute
+scikit-learn
+
+# Feature processing
+scikit-learn
+imbalanced-learn
+
+# Machine Learning models
+catboost
+lightgbm
+xgboost
+
+# Neural Networks
+tensorflow
+
+# Model evaluation
+scikit-learn
+
+# Other
+yellowbrick
