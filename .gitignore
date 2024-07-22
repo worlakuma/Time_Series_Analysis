@@ -164,3 +164,4 @@ cython_debug/
 
 # Large files
 # Data/train.csv 
+/.LP3_TSF.env
